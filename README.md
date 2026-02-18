@@ -19,8 +19,8 @@ The SQL queries used for this analysis can be found in [this file](https://githu
 ## Visualization
 Based on the results of the SQL analysis, the following visualizations were created:
 
-- The ratio of hazardous vs. safe asteroids per month.
-- The closest asteroid approach recorded per month.
+- The ratio of hazardous vs safe asteroids per month
+- The closest asteroid approach recorded per month
 
 These visualizations illustrate both [the distribution of potentially hazardous objects](https://github.com/OlenaPopova05/AI240-assignment1/blob/main/Hazardous%20vs%20Safe%20Asteroids%20per%20Month.png) and [the monthly trend of minimum approach distances](https://github.com/OlenaPopova05/AI240-assignment1/blob/main/Closest%20Asteroid%20Approaches%20per%20Month.png).
 
